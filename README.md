@@ -1,31 +1,33 @@
 # Dog Breed Image Dataset Classification With Tensorflow and Python
 
-![Alt Text](BorderCollie.jpg)
+![Alt Text](BorderCollie.png)
 
-## Project Abstract
-This project aims to create a convolutional neural network for a novel six class dog image dataset using Tensorflow. 
+ ## 📋 Project Abstract
+This project aims to create a convolutional neural network for a novel six-class dog image dataset using Tensorflow. 
 
 For this project, I have implemented a VGG8 CNN architecture, a deep learning model designed for processing grid-like data (in this case images of dogs) for classification. 
 
-VGG8 is, in essence, a smaller version of the original VGG16 and VGG19 architectures introduced by the Visual Geometry Group at the University of Oxford:
-
-> Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556. https://arxiv.org/abs/1409.1556
-
 As the name suggests, it utilizes 8 layers with learnable parameters.
 
-## Dataset
+## 🧮 Model
+
+VGG8 is, in essence, a smaller version of the original VGG16 and VGG19 architectures introduced by the Visual Geometry Group at the University of Oxford:
+
+> Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556. https://arxiv.org/abs/1409.1556 
+
+ ## 🐕‍🦺 Dataset
 
 Knowing what each dog class represents is essential to better understand the results. For this project, the classes are:
 
-#### 0. American Kestrel
-#### 1. American White Pelican
-#### 2. Belted Kingfisher
-#### 3. Great Blue Heron
-#### 4. Red-tailed Hawk
-#### 5. Snowy Egret
+## EDIT
+> #### 0. American Kestrel
+> #### 1. American White Pelican
+> #### 2. Belted Kingfisher
+> #### 3. Great Blue Heron
+> #### 4. Red-tailed Hawk
+> #### 5. Snowy Egret
 
-
-## Usage
+ ## 🖥️ Usage
 
 Included in the project submission are 4 datasets that are used for testing and training:
 
