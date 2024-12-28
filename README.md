@@ -17,15 +17,20 @@ VGG8 is, in essence, a smaller version of the original VGG16 and VGG19 architect
 
  ## 🐕‍🦺 Dataset
 
+The dataset in use here is the Kaggle dog breed image dataset (Khushi Khushi. (2023). Dog Breed Image Dataset. Kaggle. Retrieved from https://www.kaggle.com/datasets/khushikhushikhushi/dog-breed-image-dataset) consisting of 10 classes of dog image:
+
 Knowing what each dog class represents is essential to better understand the results. For this project, the classes are:
 
-## EDIT
-> #### 0. American Kestrel
-> #### 1. American White Pelican
-> #### 2. Belted Kingfisher
-> #### 3. Great Blue Heron
-> #### 4. Red-tailed Hawk
-> #### 5. Snowy Egret
+> #### Golden Retriever
+> #### German Shepherd
+> #### Labrador Retriever
+> #### Bulldog
+> #### Beagle
+> #### Poodle
+> #### Rottweiler
+> #### Yorkshire Terrier
+> #### Boxer
+> #### Dachshund
 
  ## 🖥️ Usage
 
