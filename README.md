@@ -62,13 +62,18 @@ Executing the command line command will bring up a summary of the model with the
 Then, the model will be immediately trained for 32 epochs. The output should look something like this:
 
 
-| 69 |  0 |  6 |  5 |  5 |  0 |
-|----|----|----|----|----|----|
-|  2 |  2 |  8 | 15 |  0 |  2 |
-|  5 |  0 | 15 |  2 |  1 |  0 |
-| 22 |  0 | 14 | 32 | 12 |  0 |
-| 59 |  0 | 23 | 12 | 39 |  0 |
-|  2 |  1 | 11 | 24 |  1 |  7 |
+|    |    |    |    |    |    |    |    |    |    |       |
+|----|----|----|----|----|----|----|----|----|----|-------- 
+|  0 |  0 |  0 |  0 |  0 |  0 | 19 |  0 |  0 |  1 | Beagle 
+|  0 |  0 |  0 |  0 |  0 |  0 | 19 |  0 |  0 |  0 | Boxer  |
+|  0 |  0 |  0 |  0 |  0 |  0 | 20 |  0 |  0 |  0 | Bulldog|
+|  0 |  0 |  0 |  0 |  0 |  0 | 19 |  0 |  0 |  0 | Dashsund|
+|  0 |  0 |  0 |  0 |  0 |  0 | 12 |  0 |  0 |  0 | German_Shepard|
+|  0 |  0 |  0 |  0 |  0 |  0 | 18 |  0 |  0 |  0 | Golden_Retriever|
+|  0 |  0 |  0 |  0 |  0 |  0 | 17 |  0 |  0 |  0 | Labrador_Retriever|
+|  0 |  0 |  0 |  0 |  0 |  0 | 24 |  0 |  0 |  2 | Poodle|
+|  0 |  0 |  0 |  0 |  0 |  0 | 22 |  0 |  0 |  0 | Rottweiler|
+|  0 |  0 |  0 |  0 |  0 |  0 | 19 |  0 |  0 |  2 | Yorkshire_Terrier|
 
 
 Test set accuracy: 0.4141, MCC: 0.2903 
