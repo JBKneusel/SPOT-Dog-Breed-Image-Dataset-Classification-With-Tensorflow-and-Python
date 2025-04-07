@@ -59,9 +59,9 @@ Executing the command line command will bring up a summary of the model with the
 > #### Trainable params: 38,920,518 (148.47 MB)
 > #### Non-trainable params: 9,984 (39.00 KB)
 
-Then, the model will be immediately trained for 32 epochs. The output should look something like this:
+Then, the model will be immediately trained for 32 epochs. 
 
-
+<!--
 |    |    |    |    |    |    |    |    |    |    |       |
 |----|----|----|----|----|----|----|----|----|----|-------- 
 |  0 |  0 |  0 |  0 |  0 |  0 | 19 |  0 |  0 |  1 | Beagle 
@@ -79,7 +79,7 @@ Then, the model will be immediately trained for 32 epochs. The output should loo
 Test set accuracy: 0.4141, MCC: 0.2903 
 
 Test Set Accuracy is the percentage of correct predictions, and MCC is the Matthews Correlation Coefficient, which indicates a weak positive correlation between true labels and predicted labels. Interpreting the confusion matrix is as follows:
-
+-->
 #### Rows represent actual (true) classes:
 Each row corresponds to the instances of a specific class in the test set.
 
