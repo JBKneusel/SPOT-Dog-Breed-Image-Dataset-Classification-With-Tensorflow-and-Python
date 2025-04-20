@@ -1,4 +1,5 @@
-# Dog Breed Image Dataset Classification With Tensorflow and Python
+# SPOT
+Dog Breed Image Dataset Classification With Tensorflow and Python
 
 ![Alt Text](BorderCollie.png)
 
